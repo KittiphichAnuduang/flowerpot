@@ -6,13 +6,13 @@ I built this because I want to access floriography without internet.
 
 ---
 
-### Build
+## Build
 ```bash
 npm install
 npx tauri build
 ```
 
-# Output
+## Output
 ```bash
 src-tauri/target/release/app.exe # Portable offline app
 src-tauri/target/release/bundle/msi/ # Optional Windows installer
