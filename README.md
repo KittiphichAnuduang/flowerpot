@@ -36,7 +36,7 @@ npx tauri dev
 # Build desktop app
 npx tauri build
 
-# 📦 Output
+# Output
 
 src-tauri/target/release/app.exe — Portable offline app
 
