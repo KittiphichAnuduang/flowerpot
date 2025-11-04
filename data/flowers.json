@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "rose-red",
+    "commonName": "Rose",
+    "latinName": "Rosa",
+    "origin": "Asia, Europe, North America",
+    "description": "Woody perennial prized for fragrance and symbolism.",
+    "images": [
+      {
+        "src": "/images/flowers/rose-red.svg",
+        "alt": "Red rose illustration"
+      }
+    ],
+    "tags": [
+      "love",
+      "respect",
+      "full-sun",
+      "medium-humidity",
+      "beginner",
+      "temperate",
+      "europe",
+      "asia"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 15,
+        "max": 28
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained loam",
+        "pH": {
+          "min": 6.0,
+          "max": 6.5
+        },
+        "mixRecipe": [
+          "2 parts loam",
+          "1 part compost",
+          "perlite sprinkle"
+        ],
+        "drainageTest": "Water-filled hole should drain in under 30 minutes."
+      },
+      "hardinessZone": "USDA 5-9"
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "seedling",
+          "durationHint": "2–3 weeks",
+          "actions": [
+            "Bright indirect light",
+            "Keep soil moist"
+          ],
+          "warnings": [
+            "Avoid direct noon sun"
+          ]
+        },
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Full sun 6–8h",
+            "Top-dress compost in spring"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Deep water weekly"
+          ],
+          "warnings": [
+            "Do not wet foliage at night"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1–2x/week",
+        "amount": "Deep soak",
+        "method": "Soil-level watering",
+        "seasonalAdjust": "Increase in summer heat"
+      },
+      "nutrition": {
+        "type": "Balanced 10-10-10",
+        "frequency": "Monthly during growing season"
+      },
+      "environmentTips": [
+        "Mulch 5–8 cm to retain moisture"
+      ],
+      "likes": [
+        "Morning sun"
+      ],
+      "hates": [
+        "Waterlogged soil"
+      ],
+      "commonIssues": [
+        {
+          "issue": "Black spot",
+          "fix": "Improve airflow; remove infected leaves"
+        }
+      ]
+    },
+    "language": {
+      "meanings": [
+        "love",
+        "passion",
+        "respect"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "Royal Horticultural Society"
+        },
+        {
+          "name": "Missouri Botanical Garden"
+        }
+      ],
+      "lastReviewedISO": "2025-11-02"
+    }
+  },
+  {
+    "id": "lily-white",
+    "commonName": "Lily",
+    "latinName": "Lilium",
+    "origin": "Temperate Northern Hemisphere",
+    "description": "Elegant blooms with trumpet-shaped flowers.",
+    "images": [
+      {
+        "src": "/images/flowers/lily-white.svg",
+        "alt": "White lily illustration"
+      }
+    ],
+    "tags": [
+      "purity",
+      "sympathy",
+      "partial-sun",
+      "cool",
+      "temperate",
+      "europe"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 24
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained loam"
+      },
+      "hardinessZone": "USDA 4-8"
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Morning sun, afternoon shade",
+            "Keep evenly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Stake tall stems",
+            "Deadhead to extend blooming"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Bulb fertilizer",
+        "frequency": "At planting and after bloom"
+      }
+    },
+    "language": {
+      "meanings": [
+        "purity",
+        "renewal"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "RHS"
+        }
+      ],
+      "lastReviewedISO": "2025-11-02"
+    }
+  },
+  {
+    "id": "sunflower",
+    "commonName": "Sunflower",
+    "latinName": "Helianthus annuus",
+    "origin": "North America",
+    "description": "Tall annual with large, sun-tracking flowerheads.",
+    "images": [
+      {
+        "src": "/images/flowers/sunflower.svg",
+        "alt": "Sunflower illustration"
+      }
+    ],
+    "tags": [
+      "celebration",
+      "congratulations",
+      "full-sun",
+      "drought-tolerant",
+      "americas",
+      "outdoor",
+      "beginner"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 18,
+        "max": 32
+      },
+      "humidity": "low",
+      "airflow": "high",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "seed",
+          "actions": [
+            "Direct sow after frost",
+            "Thin seedlings"
+          ]
+        },
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Full sun 8h+",
+            "Support stalks if windy"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deep water weekly",
+            "Harvest seeds when heads droop"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "Weekly",
+        "amount": "Deep soak"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "At planting"
+      }
+    },
+    "language": {
+      "meanings": [
+        "admiration",
+        "longevity",
+        "happiness"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "MBG"
+        }
+      ],
+      "lastReviewedISO": "2025-11-02"
+    }
+  },
+  {
+    "id": "tulip-red",
+    "commonName": "Tulip",
+    "latinName": "Tulipa",
+    "origin": "Europe, Asia",
+    "description": "Cup-shaped spring bulb beloved for simple elegance.",
+    "images": [
+      {
+        "src": "/images/flowers/tulip-red.svg",
+        "alt": "Tulip illustration"
+      }
+    ],
+    "tags": [
+      "love",
+      "celebration",
+      "partial-sun",
+      "cool",
+      "europe",
+      "temperate",
+      "beginner"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "love",
+        "celebration"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "orchid-moth",
+    "commonName": "Moth Orchid",
+    "latinName": "Phalaenopsis",
+    "origin": "Southeast Asia",
+    "description": "Popular indoor orchid with long-lasting blooms.",
+    "images": [
+      {
+        "src": "/images/flowers/orchid-moth.svg",
+        "alt": "Moth Orchid illustration"
+      }
+    ],
+    "tags": [
+      "respect",
+      "friendship",
+      "indoor-friendly",
+      "partial-sun",
+      "high-humidity",
+      "asia",
+      "fragile"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "high",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "respect",
+        "friendship"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daisy",
+    "commonName": "Daisy",
+    "latinName": "Bellis perennis",
+    "origin": "Europe",
+    "description": "Cheerful composite flower symbolizing innocence.",
+    "images": [
+      {
+        "src": "/images/flowers/daisy.svg",
+        "alt": "Daisy illustration"
+      }
+    ],
+    "tags": [
+      "purity",
+      "friendship",
+      "full-sun",
+      "cool",
+      "europe",
+      "outdoor",
+      "beginner"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "purity",
+        "friendship"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lavender",
+    "commonName": "Lavender",
+    "latinName": "Lavandula",
+    "origin": "Mediterranean",
+    "description": "Fragrant herb with purple spikes used for oils.",
+    "images": [
+      {
+        "src": "/images/flowers/lavender.svg",
+        "alt": "Lavender illustration"
+      }
+    ],
+    "tags": [
+      "gratitude",
+      "friendship",
+      "full-sun",
+      "low-humidity",
+      "drought-tolerant",
+      "europe",
+      "outdoor"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "low",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "gratitude",
+        "friendship"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chrysanthemum",
+    "commonName": "Chrysanthemum",
+    "latinName": "Chrysanthemum",
+    "origin": "Asia",
+    "description": "Autumn-flowering plant with many forms and colors.",
+    "images": [
+      {
+        "src": "/images/flowers/chrysanthemum.svg",
+        "alt": "Chrysanthemum illustration"
+      }
+    ],
+    "tags": [
+      "respect",
+      "sympathy",
+      "partial-sun",
+      "cool",
+      "asia",
+      "outdoor",
+      "heavy-feeder"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "respect",
+        "sympathy"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "peony",
+    "commonName": "Peony",
+    "latinName": "Paeonia",
+    "origin": "Asia, Europe, North America",
+    "description": "Large, ruffled flowers with luxurious look.",
+    "images": [
+      {
+        "src": "/images/flowers/peony.svg",
+        "alt": "Peony illustration"
+      }
+    ],
+    "tags": [
+      "celebration",
+      "love",
+      "partial-sun",
+      "cool",
+      "asia",
+      "temperate",
+      "slow-growing"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "celebration",
+        "love"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "carnation",
+    "commonName": "Carnation",
+    "latinName": "Dianthus caryophyllus",
+    "origin": "Mediterranean",
+    "description": "Clove-scented fringed petals, long vase life.",
+    "images": [
+      {
+        "src": "/images/flowers/carnation.svg",
+        "alt": "Carnation illustration"
+      }
+    ],
+    "tags": [
+      "respect",
+      "apology",
+      "partial-sun",
+      "cool",
+      "europe",
+      "outdoor",
+      "beginner"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "respect",
+        "apology"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "marigold",
+    "commonName": "Marigold",
+    "latinName": "Tagetes",
+    "origin": "Americas",
+    "description": "Bright marigolds that thrive in heat and repel pests.",
+    "images": [
+      {
+        "src": "/images/flowers/marigold.svg",
+        "alt": "Marigold illustration"
+      }
+    ],
+    "tags": [
+      "celebration",
+      "congratulations",
+      "full-sun",
+      "warm",
+      "americas",
+      "outdoor",
+      "prone-to-pests"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "celebration",
+        "congratulations"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jasmine",
+    "commonName": "Jasmine",
+    "latinName": "Jasminum",
+    "origin": "Tropics/Asia",
+    "description": "Sweetly scented climbing or shrubby plant.",
+    "images": [
+      {
+        "src": "/images/flowers/jasmine.svg",
+        "alt": "Jasmine illustration"
+      }
+    ],
+    "tags": [
+      "love",
+      "friendship",
+      "partial-sun",
+      "high-humidity",
+      "tropics",
+      "asia",
+      "indoor-friendly"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "high",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "love",
+        "friendship"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "camellia",
+    "commonName": "Camellia",
+    "latinName": "Camellia japonica",
+    "origin": "East Asia",
+    "description": "Glossy leaves, rose-like winter blooms.",
+    "images": [
+      {
+        "src": "/images/flowers/camellia.svg",
+        "alt": "Camellia illustration"
+      }
+    ],
+    "tags": [
+      "respect",
+      "love",
+      "partial-sun",
+      "cool",
+      "asia",
+      "outdoor",
+      "fragile"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "respect",
+        "love"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hydrangea",
+    "commonName": "Hydrangea",
+    "latinName": "Hydrangea macrophylla",
+    "origin": "Japan",
+    "description": "Big mophead or lacecap clusters; color shifts by pH.",
+    "images": [
+      {
+        "src": "/images/flowers/hydrangea.svg",
+        "alt": "Hydrangea illustration"
+      }
+    ],
+    "tags": [
+      "gratitude",
+      "apology",
+      "partial-sun",
+      "medium-humidity",
+      "asia",
+      "outdoor",
+      "heavy-feeder"
+    ],
+    "environment": {
+      "sunlight": "partial",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "medium",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "gratitude",
+        "apology"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lotus",
+    "commonName": "Lotus",
+    "latinName": "Nelumbo nucifera",
+    "origin": "Asia",
+    "description": "Aquatic plant revered for purity; floating leaves and flowers.",
+    "images": [
+      {
+        "src": "/images/flowers/lotus.svg",
+        "alt": "Lotus illustration"
+      }
+    ],
+    "tags": [
+      "purity",
+      "celebration",
+      "full-sun",
+      "high-humidity",
+      "asia",
+      "tropics",
+      "outdoor"
+    ],
+    "environment": {
+      "sunlight": "full",
+      "temperatureC": {
+        "min": 10,
+        "max": 30
+      },
+      "humidity": "high",
+      "airflow": "medium",
+      "soil": {
+        "type": "well-drained"
+      }
+    },
+    "care": {
+      "stages": [
+        {
+          "stage": "vegetative",
+          "actions": [
+            "Provide appropriate light",
+            "Keep soil slightly moist"
+          ]
+        },
+        {
+          "stage": "flowering",
+          "actions": [
+            "Deadhead spent blooms",
+            "Feed during active growth"
+          ]
+        }
+      ],
+      "watering": {
+        "frequency": "1x/week"
+      },
+      "nutrition": {
+        "type": "Balanced",
+        "frequency": "Monthly in season"
+      }
+    },
+    "language": {
+      "meanings": [
+        "purity",
+        "celebration"
+      ]
+    },
+    "metadata": {
+      "sources": [
+        {
+          "name": "General horticultural references"
+        }
+      ]
+    }
+  }
+]

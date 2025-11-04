@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+.next/
+out/
+dist/
+*.log
+
+# Tauri
+src-tauri/target/
+src-tauri/gen/
+
+# Misc
+.DS_Store
+Thumbs.db
+.env
